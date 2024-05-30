@@ -50,6 +50,7 @@ nav ul li:hover > .menu {
   position: absolute;
   display: none;
   list-style: none;
+  padding: 0%;
 }
 
 .menu li{
